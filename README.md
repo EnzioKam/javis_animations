@@ -16,6 +16,7 @@ Code to generate points for hilbert curve from [cormullion/hilbert-animation.jl]
 | Animation | Source |
 | --- | --- |
 | <img src="hilbert/hilbert.gif" width="400" height="400"> | [hilbert.jl](hilbert/hilbert.jl) |
+| <img src="hilbert/hilbert_alt.gif" width="400" height="400"> | [hilbert_alt.jl](hilbert/hilbert_alt.jl) |
 
 ## Graph algortihms
 
