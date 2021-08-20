@@ -13,7 +13,7 @@
 
 | Animation | Source |
 | --- | --- |
-| WIP | [heapify.jl](heaps/heapify.jl) |
+| <img src="heaps/heapify.gif" width="400" height="400"> | [heapify.jl](heaps/heapify.jl) |
 
 ## Graph algortihms
 
